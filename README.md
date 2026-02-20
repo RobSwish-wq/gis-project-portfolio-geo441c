@@ -8,7 +8,7 @@ Raymond Swisher
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://drive.google.com/uc?export=view&id=1BEdKh4Lub5wstW_y1tseiTvH4poZKg0N)
+- [First map in ArcGIS Pro](https://github.com/RobSwish-wq/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
 - [Multiple map frames in one map layout](!https://drive.google.com/uc?export=view&id=15uS_01UAR58Mn-MGyUlUBGxYWmuWsGqb)
 
 ## Map Coordinate Basics
