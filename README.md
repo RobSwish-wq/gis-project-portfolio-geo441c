@@ -9,7 +9,7 @@ Raymond Swisher
 ## Basic Mapping
 
 - [First map in ArcGIS Pro](https://github.com/RobSwish-wq/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
-- [Multiple map frames in one map layout](!https://drive.google.com/uc?export=view&id=15uS_01UAR58Mn-MGyUlUBGxYWmuWsGqb)
+- [Multiple map frames in one map layout](https://github.com/RobSwish-wq/gis-project-portfolio-geo441c/blob/main/basic-mapping/Copy_of_geo441_541c_sp26_week_02_assignment_template.ipynb)
 
 ## Map Coordinate Basics
 
