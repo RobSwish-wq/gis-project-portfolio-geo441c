@@ -18,3 +18,7 @@ Raymond Swisher
 ## **Web Mapping**
 
 - [StoryMap Collection](https://arcg.is/4SKb42)
+
+## **Raster Analysis/Thomas Fire**
+
+-[Raster Analysis](https://drive.google.com/uc?export=view&id=1KQRqX3YYPI92GygbJk_FVc4ytqvDTkxR)
