@@ -21,4 +21,4 @@ Raymond Swisher
 
 ## **Raster Analysis/Thomas Fire**
 
--[Raster Analysis](https://drive.google.com/uc?export=view&id=1KQRqX3YYPI92GygbJk_FVc4ytqvDTkxR)
+-[Raster Analysis](https://colab.research.google.com/drive/1bj5R4cMJLwowdBFRWlguRinol_aSCOLh?usp=sharing)
