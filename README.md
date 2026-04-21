@@ -23,6 +23,6 @@ Raymond Swisher
 
 -[Raster Analysis](https://colab.research.google.com/drive/1bj5R4cMJLwowdBFRWlguRinol_aSCOLh?usp=sharing)
 
-## **Spatial Analysis/Vector Data**
+## **Spatial Analysis for Vector Data/Snow Map**
 
 -[Spatial Analysis](https://colab.research.google.com/drive/1fgIaLXRUy9RY3mCTTjlb5Kk6Gxm5YLmv#scrollTo=pUt-AcN56NmX)
