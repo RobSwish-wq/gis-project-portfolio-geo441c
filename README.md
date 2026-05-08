@@ -33,4 +33,4 @@ Raymond Swisher
 
 ## **Final Project/Oklahoma Internet Access** ##
 
--[Internet Access Map](https://storymaps.arcgis.com/stories/c97994ca460c47eb9772465a41e65ff5/edit)
+-[Internet Access Map]([https://storymaps.arcgis.com/stories/c97994ca460c47eb9772465a41e65ff5/edit](https://arcg.is/188XL46))
